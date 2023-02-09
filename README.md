@@ -1,4 +1,4 @@
-### Hello, I'm Jessica Pereira 👋
+### Hello, I'm Jessica Pereira ✌️
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-pereira-162b20bb/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jessnaypereira/?next=%2F)
